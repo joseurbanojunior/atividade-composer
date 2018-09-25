@@ -1,0 +1,13 @@
+{
+    "name": "joseurbanojunior/atividade-composer",
+    "authors": [
+        {
+            "name": "joseurbanojunior",
+            "email": "2017joseurbano2017@gmail.com"
+        }
+    ],
+    "require": {
+        "endroid/qr-code": "^2.5",
+        "respect/validation": "^1.1"
+    }
+}
